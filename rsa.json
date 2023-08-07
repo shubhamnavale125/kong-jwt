@@ -10,6 +10,7 @@
   "dq": "CRrUrRKFuceke0N9d-Usub2kljbQcXkra3fdM5gSsATIerJKKJgA3eHJ_UdBd1OsuMZ2eNG-wgmGyPSAPDc_MO1JcxpQeBfTUCBu4rgaf2-Bwp7fj3gVb6O95Ror5Q3cQkKDHvLZ8vhORTI8QjH471gRAc9YilQMREjt0P4GAD0",
   "qi": "D3lAKAkXBmiKFrh_IFvs9rRV0BkndbBsDYIGpHLIpaWaOuMrkqCg-QNzOQTysv5CorNwDGwYycxLAqDeXniJHgTsZpFZMDQKCAMmlRpHk2TPwP7gIE7QMR788Y-2l3WhIK2TjShhYgGFfQb209oAoUNtNt-gWBDzzlS0qJAcM0U",
   "alg": "RS256",
-  "use": "sig"
+  "use": "sig",
+    "kid":"test"
 }
 ]}
